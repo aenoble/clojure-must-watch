@@ -1,8 +1,6 @@
 # clojure-must-watch
 Must watch videos about Clojure in the same vein as js-must-watch (https://github.com/bolshchikov/js-must-watch).
 
-## 2015
-
 ## 2014
 1. [Rich Hickey: **Transducers**](https://www.youtube.com/watch?v=6mTbuzafcII) [45:00]
 1. [David Nolen: **ClojureScript: Lisp's Revenge**](https://www.youtube.com/watch?v=MTawgp3SKy8) [32:02]
@@ -20,8 +18,6 @@ Must watch videos about Clojure in the same vein as js-must-watch (https://githu
 
 ## 2011
 1. [Rich Hickey: **Simple Made Easy**](http://www.infoq.com/presentations/Simple-Made-Easy) [1:01:26]
-
-## 2010
 
 ## 2009
 1. [Rich Hickey: **Are We There Yet?**](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) [1:10:04]
