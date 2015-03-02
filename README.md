@@ -19,5 +19,8 @@ Must watch videos about Clojure in the same vein as js-must-watch (https://githu
 ## 2011
 1. [Rich Hickey: **Simple Made Easy**](http://www.infoq.com/presentations/Simple-Made-Easy) [1:01:26]
 
+## 2010
+1. [Rich Hickey: **Hammock Driven Development**](https://www.youtube.com/watch?v=f84n5oFoZBc) [39:48]
+
 ## 2009
 1. [Rich Hickey: **Are We There Yet?**](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) [1:10:04]
