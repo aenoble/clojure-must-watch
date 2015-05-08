@@ -8,13 +8,15 @@ Must watch videos about Clojure in the same vein as js-must-watch (https://githu
 
 ## 2013
 1. [Rich Hickey and Brian Beckman: **Inside Clojure**](https://www.youtube.com/watch?v=wASCH_gPnDw) [53:55]
-1. [Timothy Baldridge: **Core.Async**](https://www.youtube.com/watch?v=enwIIGzhahw) [39:45]
-1. [David Nolen: **Clojure Library Core.async for Asynchronous Programming**](https://www.youtube.com/watch?v=AhxcGGeh5ho) [55:31]
+2. [Timothy Baldridge: **Core.Async**](https://www.youtube.com/watch?v=enwIIGzhahw) [39:45]
+3. [David Nolen: **Clojure Library Core.async for Asynchronous Programming**](https://www.youtube.com/watch?v=AhxcGGeh5ho) [55:31]
+4. [Rich Hickey: **Design, Composition and Performance**](http://www.infoq.com/presentations/design-composition-performance-keynote) [55:24]
 
 ## 2012
 1. [Rich Hickey: **The Value of Values**](https://www.youtube.com/watch?v=-6BsiVyC1kM) [31:43]
-1. [Rich Hickey: **Clojure Concurrency**](https://www.youtube.com/watch?v=dGVqrGmwOAw) [2:32:38]
-1. [Rich Hickey: **ClojureScript Release**](https://www.youtube.com/watch?v=tVooR-dF_Ag) [1:27:19]
+2. [Rich Hickey: **Clojure Concurrency**](https://www.youtube.com/watch?v=dGVqrGmwOAw) [2:32:38]
+3. [Rich Hickey: **ClojureScript Release**](https://www.youtube.com/watch?v=tVooR-dF_Ag) [1:27:19]
+4. [Stuart Halloway: **The Impedence Mismatch is Our Fault**](http://www.infoq.com/presentations/Impedance-Mismatch) [58:31]
 
 ## 2011
 1. [Rich Hickey: **Simple Made Easy**](http://www.infoq.com/presentations/Simple-Made-Easy) [1:01:26]
