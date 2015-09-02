@@ -17,6 +17,8 @@ Must watch videos about Clojure in the same vein as js-must-watch (https://githu
 2. [Rich Hickey: **Clojure Concurrency**](https://www.youtube.com/watch?v=dGVqrGmwOAw) [2:32:38]
 3. [Rich Hickey: **ClojureScript Release**](https://www.youtube.com/watch?v=tVooR-dF_Ag) [1:27:19]
 4. [Stuart Halloway: **The Impedence Mismatch is Our Fault**](http://www.infoq.com/presentations/Impedance-Mismatch) [58:31]
+5. [Rich Hickey: **Clojure for Java Programmers Part 1**](https://www.youtube.com/watch?v=P76Vbsk_3J0) [1:48:12]
+6. [Rich Hickey: **Clojure for Java Programmers Part 2**](https://www.youtube.com/watch?v=hb3rurFxrZ8) [59:26]
 
 ## 2011
 1. [Rich Hickey: **Simple Made Easy**](http://www.infoq.com/presentations/Simple-Made-Easy) [1:01:26]
